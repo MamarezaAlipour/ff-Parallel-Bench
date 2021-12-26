@@ -3,3 +3,4 @@ include/*.hpp.gch
 *.o
 a.out
 run
+/.vs
